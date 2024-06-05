@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on becoming a Software Engineer
-🌱 I’m currently learning about programming 😄
+🔭 I’m currently working as Software Engineer
+🌱 Passionly learning about programming 😄
 
 <div>
   <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=acapvevo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
